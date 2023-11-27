@@ -638,7 +638,7 @@ Batterie noch nicht einstecken!
 * Einpressgewinde hier platzieren:
   * 3 Stück in Hauptgehäuse für das PCB (mit Montagelöchern der Platine vergleichen)
   * 5 Stück in Hauptgehäuse für Hauptdeckel
-  * 1 Stück in Hauptgehäuse beim GPS-Deckel
+  * 2 Stück in Hauptgehäuse beim GPS-Deckel
   * 3 Stück in Displaygehäuse
 * Kleine Würfelmagnete in USB-Abdeckung einsetzen
   * Wenn Kompatibilität mit anderen OBS gewünscht ist, muss auf gleiche Polung
@@ -681,7 +681,7 @@ beiden Seiten oder gelötetem Kabel/Knopf passt nicht unbedingt durch das Gehäu
 * Kabel durch Displaygehäuse-Unterteil und Zugentlastung führen.
 * Button in Gehäuseoberteil einschrauben.
 * Stecker OBS-Seite
-  * Das andere Kabelende durch das Displaygehäuse-Unterteil stecken.
+  * Das andere Kabelende durch das OBS-Gehäuse-Unterteil stecken.
   * Die Außenisolierung kann gut auf ca. 5&thinsp;cm abisoliert werden.
   * Die einzelnen Litzen **nur 1-2&thinsp;mm abisolieren** und alle 5 Litzen crimpen.
     Für stabilen Halt müssen die äußeren Flügel des Crimpkontakts die
@@ -710,7 +710,7 @@ Der Button ist hitzeempfindlich, bei zu langem/heißem Löten schmilzt der Kunst
 | `SDA`       | `SDA`          |          | blau                   |
 | `GND`       | `GND`          |          | schwarz                |
 | `BUT`       | -              | Pin 1    | grau                   |
-| `SCL`       | `SCK`          | -        | weiß                   |
+| `SCL`       | `SCL`          | -        | weiß                   |
 | `+3V3`      | -              | Pin 2    | braun                  |
 | -           | `VDD`          | Pin 2    | (kurzes Stück Kabel)   |
 
